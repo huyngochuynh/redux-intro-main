@@ -1,5 +1,3 @@
-import React from "react";
-import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import PropDrillingExercise from "./pages/PropDrillingExercise";
 import NotFoundPage from "./pages/NotFoundPage";

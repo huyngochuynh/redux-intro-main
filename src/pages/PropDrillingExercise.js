@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from 'react';
 import { Container, Button, Typography, Box, Grid } from "@mui/material"
 import productOne from "../images/product1.gif";
 import productTwo from "../images/product2.gif";
